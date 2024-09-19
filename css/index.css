@@ -1,0 +1,21 @@
+#parent {
+  background-color: red;
+  border: 5px solid green;
+  padding: 40px;
+}
+
+.child {
+  background-color: blue;
+  border: 5px solid yellow;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  
+}
